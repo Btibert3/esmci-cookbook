@@ -1,1 +1,4 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.
+# About
+
+Cookbook of recipes for data analysis tasks in Enrollment management. This book will perform each recipe using R as well as python.  
+
